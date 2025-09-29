@@ -8,6 +8,12 @@ p .odd {
   font-size: 36px;
 }
 
+#unique2 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
+
 p .odd.cooler {
   font-size: 24px;
 }
