@@ -3,6 +3,13 @@ body {
   font-family: sans-serif;
 }
 
+.card,
+.title,
+.content,
+.button-container {
+  padding: 8px;
+  margin: 8px;
+}
 .card {
   width: 400px;
   background: #fff;
